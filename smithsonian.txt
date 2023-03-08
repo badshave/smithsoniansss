@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="US: Smithsonian Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="US - News",US: Smithsonian Channel HD
+http://m3ulink.com:8080/7272858228/4883377448/403766
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="US: Smithsonian Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="US - Entertainment",US: Smithsonian Channel FHD
+http://m3ulink.com:8080/7272858228/4883377448/110150
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="US: SMITHSONIAN CHANNEL" tvg-logo="https://hd-report.com/wp-content/uploads/2015/12/smithsonian-channel-logo-lrg-clr-600x161.jpg" group-title="US - Entertainment",US: SMITHSONIAN CHANNEL
+http://m3ulink.com:8080/7272858228/4883377448/29586
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="US: SMITHSONIAN CHANNEL" tvg-logo="https://hd-report.com/wp-content/uploads/2015/12/smithsonian-channel-logo-lrg-clr-600x161.jpg" group-title="US - Entertainment",US: SMITHSONIAN CHANNEL
+http://m3ulink.com:8080/7272858228/4883377448/29586
+#EXTINF:-1 tvg-ID="smithsonian.ca" tvg-name="CA: SMITHSONIAN CHANNEL" tvg-logo="https://hd-report.com/wp-content/uploads/2015/12/smithsonian-channel-logo-lrg-clr-600x161.jpg" group-title="CA-Entertainment",CA: SMITHSONIAN CHANNEL
+http://m3ulink.com:8080/7272858228/4883377448/40243
+
